@@ -5,7 +5,7 @@
 'use strict';
 
 var RCTBrowser = {
-  test: function() {
+  open: function() {
     alert('Not yet implemented for Android.');
   }
 };
